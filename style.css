@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 24px;
+  background: #fafafa;
+  color: #222;
+}
+
+header {
+  max-width: 1000px;
+  margin: 0 auto 24px auto;
+}
+
+h1, h2 {
+  margin-bottom: 8px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+#controls {
+  max-width: 1000px;
+  margin: 0 auto 24px auto;
+  padding: 12px 0;
+}
+
+.chart-section {
+  max-width: 1000px;
+  margin: 0 auto 32px auto;
+  background: white;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+}
+
+svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tooltip {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  background: rgba(30, 30, 30, 0.95);
+  color: white;
+  padding: 8px 10px;
+  border-radius: 6px;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.axis-label {
+  font-size: 13px;
+  fill: #444;
+}
+
+.grid line {
+  stroke: #e0e0e0;
+  stroke-opacity: 0.8;
+}
+
+.daily-point {
+  opacity: 0.55;
+}
+
+.highlighted {
+  stroke: #111;
+  stroke-width: 2px;
+}
+.two-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.chart-box {
+  width: 100%;
+}
+

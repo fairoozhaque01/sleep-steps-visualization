@@ -1,0 +1,464 @@
+date,sleep_hours,steps,day_type,sleep_category,sleep_deficit,Sleep_Status,month,week_num,moving_avg_7
+2023-08-28,6.63,4079,Weekday,Normal,1.37,Adequate,Aug,35,7.901428571
+2023-08-29,8.3,832,Weekday,Long,-0.3,Extra sleep,Aug,35,7.74
+2023-08-30,6.73,4005,Weekday,Normal,1.27,Adequate,Aug,35,7.811428571
+2023-08-31,8.75,2652,Weekday,Long,-0.75,Extra sleep,Aug,35,8.032857143
+2023-09-01,8.15,3350,Weekday,Long,-0.15,Extra sleep,Sep,35,8.178571429
+2023-09-02,8.05,2898,Weekend,Long,-0.05,Extra sleep,Sep,35,7.914285714
+2023-09-03,8.7,539,Weekend,Long,-0.7,Extra sleep,Sep,35,7.864285714
+2023-09-04,5.5,5838,Weekday,Short,2.5,Sleep deprived,Sep,36,7.697142857
+2023-09-05,8.8,5572,Weekday,Long,-0.8,Extra sleep,Sep,36,8.282857143
+2023-09-06,8.28,2365,Weekday,Long,-0.28,Extra sleep,Sep,36,8.215714286
+2023-09-07,9.77,6888,Weekday,Long,-1.77,Extra sleep,Sep,36,8.171428571
+2023-09-08,6.3,4550,Weekday,Normal,1.7,Adequate,Sep,36,8.118571429
+2023-09-09,7.7,3739,Weekend,Normal,0.3,Adequate,Sep,36,8.58
+2023-09-10,7.53,4734,Weekend,Normal,0.47,Adequate,Sep,36,8.794285714
+2023-09-11,9.6,4051,Weekday,Long,-1.6,Extra sleep,Sep,37,8.914285714
+2023-09-12,8.33,982,Weekday,Long,-0.33,Extra sleep,Sep,37,8.702857143
+2023-09-13,7.97,11073,Weekday,Normal,0.03,Adequate,Sep,37,8.905714286
+2023-09-14,9.4,3941,Weekday,Long,-1.4,Extra sleep,Sep,37,9.07
+2023-09-15,9.53,3971,Weekday,Long,-1.53,Extra sleep,Sep,37,8.877142857
+2023-09-16,9.2,3764,Weekend,Long,-1.2,Extra sleep,Sep,37,8.647142857
+2023-09-17,8.37,3192,Weekend,Long,-0.37,Extra sleep,Sep,37,8.364285714
+2023-09-18,8.12,3557,Weekday,Long,-0.12,Extra sleep,Sep,38,8.397142857
+2023-09-19,9.75,1110,Weekday,Long,-1.75,Extra sleep,Sep,38,8.532857143
+2023-09-20,9.12,7506,Weekday,Long,-1.12,Extra sleep,Sep,38,8.328571429
+2023-09-21,8.05,6090,Weekday,Long,-0.05,Extra sleep,Sep,38,8.125714286
+2023-09-22,7.92,3144,Weekday,Normal,0.08,Adequate,Sep,38,8.251428571
+2023-09-23,7.22,4455,Weekend,Normal,0.78,Adequate,Sep,38,7.867142857
+2023-09-24,8.6,3719,Weekend,Long,-0.6,Extra sleep,Sep,38,7.968571429
+2023-09-25,9.07,1039,Weekday,Long,-1.07,Extra sleep,Sep,39,8
+2023-09-26,8.32,436,Weekday,Long,-0.32,Extra sleep,Sep,39,8.035714286
+2023-09-27,7.7,5275,Weekday,Normal,0.3,Adequate,Sep,39,8.042857143
+2023-09-28,8.93,3196,Weekday,Long,-0.93,Extra sleep,Sep,39,8.224285714
+2023-09-29,5.23,3236,Weekday,Short,2.77,Sleep deprived,Sep,39,8.16
+2023-09-30,7.93,3615,Weekend,Normal,0.07,Adequate,Sep,39,8.665714286
+2023-10-01,8.82,6159,Weekend,Long,-0.82,Extra sleep,Oct,39,8.625714286
+2023-10-02,9.32,1204,Weekday,Long,-1.32,Extra sleep,Oct,40,8.587142857
+2023-10-03,8.37,3032,Weekday,Long,-0.37,Extra sleep,Oct,40,8.494285714
+2023-10-04,8.97,1742,Weekday,Long,-0.97,Extra sleep,Oct,40,8.615714286
+2023-10-05,8.48,2278,Weekday,Long,-0.48,Extra sleep,Oct,40,8.505714286
+2023-10-06,8.77,1610,Weekday,Long,-0.77,Extra sleep,Oct,40,8.158571429
+2023-10-07,7.65,2037,Weekend,Normal,0.35,Adequate,Oct,40,8.234285714
+2023-10-08,8.55,2815,Weekend,Long,-0.55,Extra sleep,Oct,40,8.431428571
+2023-10-09,8.67,6696,Weekday,Long,-0.67,Extra sleep,Oct,41,8.334285714
+2023-10-10,9.22,2439,Weekday,Long,-1.22,Extra sleep,Oct,41,8.138571429
+2023-10-11,8.2,9790,Weekday,Long,-0.2,Extra sleep,Oct,41,8.257142857
+2023-10-12,6.05,6092,Weekday,Normal,1.95,Adequate,Oct,41,8.375714286
+2023-10-13,9.3,2272,Weekday,Long,-1.3,Extra sleep,Oct,41,8.771428571
+2023-10-14,9.03,4653,Weekend,Long,-1.03,Extra sleep,Oct,41,8.567142857
+2023-10-15,7.87,5766,Weekend,Normal,0.13,Adequate,Oct,41,8.662857143
+2023-10-16,7.3,2749,Weekday,Normal,0.7,Adequate,Oct,42,8.862857143
+2023-10-17,10.05,5400,Weekday,Long,-2.05,Extra sleep,Oct,42,9.024285714
+2023-10-18,9.03,4419,Weekday,Long,-1.03,Extra sleep,Oct,42,8.828571429
+2023-10-19,8.82,3052,Weekday,Long,-0.82,Extra sleep,Oct,42,8.845714286
+2023-10-20,7.87,9980,Weekday,Normal,0.13,Adequate,Oct,42,8.838571429
+2023-10-21,9.7,6837,Weekend,Long,-1.7,Extra sleep,Oct,42,9.018571429
+2023-10-22,9.27,2149,Weekend,Long,-1.27,Extra sleep,Oct,42,8.882857143
+2023-10-23,8.43,1452,Weekday,Long,-0.43,Extra sleep,Oct,43,8.82
+2023-10-24,8.68,387,Weekday,Long,-0.68,Extra sleep,Oct,43,8.797142857
+2023-10-25,9.15,4607,Weekday,Long,-1.15,Extra sleep,Oct,43,8.957142857
+2023-10-26,8.77,4427,Weekday,Long,-0.77,Extra sleep,Oct,43,8.74
+2023-10-27,9.13,2175,Weekday,Long,-1.13,Extra sleep,Oct,43,8.762857143
+2023-10-28,8.75,4836,Weekend,Long,-0.75,Extra sleep,Oct,43,8.782857143
+2023-10-29,8.83,2212,Weekend,Long,-0.83,Extra sleep,Oct,43,8.751428571
+2023-10-30,8.27,3208,Weekday,Long,-0.27,Extra sleep,Oct,44,8.647142857
+2023-10-31,9.8,323,Weekday,Long,-1.8,Extra sleep,Oct,44,8.777142857
+2023-11-01,7.63,6297,Weekday,Normal,0.37,Adequate,Nov,44,8.644285714
+2023-11-02,8.93,4030,Weekday,Long,-0.93,Extra sleep,Nov,44,8.758571429
+2023-11-03,9.27,8247,Weekday,Long,-1.27,Extra sleep,Nov,44,8.628571429
+2023-11-04,8.53,5615,Weekend,Long,-0.53,Extra sleep,Nov,44,8.535714286
+2023-11-05,8.1,5699,Weekend,Long,-0.1,Extra sleep,Nov,44,8.581428571
+2023-11-06,9.18,2898,Weekday,Long,-1.18,Extra sleep,Nov,45,8.76
+2023-11-07,8.87,380,Weekday,Long,-0.87,Extra sleep,Nov,45,8.867142857
+2023-11-08,8.43,6856,Weekday,Long,-0.43,Extra sleep,Nov,45,9.01
+2023-11-09,8.02,8280,Weekday,Long,-0.02,Extra sleep,Nov,45,9.215714286
+2023-11-10,8.62,4304,Weekday,Long,-0.62,Extra sleep,Nov,45,9.487142857
+2023-11-11,8.85,4230,Weekend,Long,-0.85,Extra sleep,Nov,45,9.152857143
+2023-11-12,9.35,2767,Weekend,Long,-1.35,Extra sleep,Nov,45,9.177142857
+2023-11-13,9.93,1165,Weekday,Long,-1.93,Extra sleep,Nov,46,9.012857143
+2023-11-14,9.87,3104,Weekday,Long,-1.87,Extra sleep,Nov,46,8.912857143
+2023-11-15,9.87,622,Weekday,Long,-1.87,Extra sleep,Nov,46,8.835714286
+2023-11-16,9.92,7170,Weekday,Long,-1.92,Extra sleep,Nov,46,8.254285714
+2023-11-17,6.28,7920,Weekday,Normal,1.72,Adequate,Nov,46,8.132857143
+2023-11-18,9.02,412,Weekend,Long,-1.02,Extra sleep,Nov,46,8.404285714
+2023-11-19,8.2,3632,Weekend,Long,-0.2,Extra sleep,Nov,46,8.354285714
+2023-11-20,9.23,4524,Weekday,Long,-1.23,Extra sleep,Nov,47,8.364285714
+2023-11-21,9.33,2561,Weekday,Long,-1.33,Extra sleep,Nov,47,8.42
+2023-11-22,5.8,4217,Weekday,Short,2.2,Sleep deprived,Nov,47,8.504285714
+2023-11-23,9.07,3752,Weekday,Long,-1.07,Extra sleep,Nov,47,9.075714286
+2023-11-24,8.18,3722,Weekday,Long,-0.18,Extra sleep,Nov,47,8.584285714
+2023-11-25,8.67,5283,Weekend,Long,-0.67,Extra sleep,Nov,47,8.401428571
+2023-11-26,8.27,3126,Weekend,Long,-0.27,Extra sleep,Nov,47,8.351428571
+2023-11-27,9.62,495,Weekday,Long,-1.62,Extra sleep,Nov,48,8.601428571
+2023-11-28,9.92,2574,Weekday,Long,-1.92,Extra sleep,Nov,48,8.451428571
+2023-11-29,9.8,4179,Weekday,Long,-1.8,Extra sleep,Nov,48,8.365714286
+2023-11-30,5.63,9197,Weekday,Short,2.37,Sleep deprived,Nov,48,8.115714286
+2023-12-01,6.9,786,Weekday,Normal,1.1,Adequate,Dec,48,8.685714286
+2023-12-02,8.32,1336,Weekend,Long,-0.32,Extra sleep,Dec,48,8.702857143
+2023-12-03,10.02,569,Weekend,Long,-2.02,Extra sleep,Dec,48,8.821428571
+2023-12-04,8.57,5055,Weekday,Long,-0.57,Extra sleep,Dec,49,8.835714286
+2023-12-05,9.32,4502,Weekday,Long,-1.32,Extra sleep,Dec,49,8.142857143
+2023-12-06,8.05,1940,Weekday,Long,-0.05,Extra sleep,Dec,49,7.885714286
+2023-12-07,9.62,1574,Weekday,Long,-1.62,Extra sleep,Dec,49,8.142857143
+2023-12-08,7.02,2748,Weekday,Normal,0.98,Adequate,Dec,49,7.925714286
+2023-12-09,9.15,3444,Weekend,Long,-1.15,Extra sleep,Dec,49,8.168571429
+2023-12-10,10.12,325,Weekend,Long,-2.12,Extra sleep,Dec,49,7.972857143
+2023-12-11,3.72,6785,Weekday,Short,4.28,Sleep deprived,Dec,50,7.301428571
+2023-12-12,7.52,1463,Weekday,Normal,0.48,Adequate,Dec,50,8.227142857
+2023-12-13,9.85,604,Weekday,Long,-1.85,Extra sleep,Dec,50,8.352857143
+2023-12-14,8.1,3671,Weekday,Long,-0.1,Extra sleep,Dec,50,7.831428571
+2023-12-15,8.72,1480,Weekday,Long,-0.72,Extra sleep,Dec,50,8.012857143
+2023-12-16,7.78,3781,Weekend,Normal,0.22,Adequate,Dec,50,8.124285714
+2023-12-17,5.42,4239,Weekend,Short,2.58,Sleep deprived,Dec,50,8.23
+2023-12-18,10.2,7733,Weekday,Long,-2.2,Extra sleep,Dec,51,8.017142857
+2023-12-19,8.4,3111,Weekday,Long,-0.4,Extra sleep,Dec,51,7.884285714
+2023-12-20,6.2,4739,Weekday,Normal,1.8,Adequate,Dec,51,8.052857143
+2023-12-21,9.37,3626,Weekday,Long,-1.37,Extra sleep,Dec,51,8.114285714
+2023-12-22,9.5,5297,Weekday,Long,-1.5,Extra sleep,Dec,51,8.068571429
+2023-12-23,8.52,4354,Weekend,Long,-0.52,Extra sleep,Dec,51,7.754285714
+2023-12-24,3.93,2195,Weekend,Short,4.07,Sleep deprived,Dec,51,7.782857143
+2023-12-25,9.27,4247,Weekday,Long,-1.27,Extra sleep,Dec,52,8.295714286
+2023-12-26,9.58,2971,Weekday,Long,-1.58,Extra sleep,Dec,52,8.3
+2023-12-27,6.63,905,Weekday,Normal,1.37,Adequate,Dec,52,8.374285714
+2023-12-28,9.05,11824,Weekday,Long,-1.05,Extra sleep,Dec,52,8.881428571
+2023-12-29,7.3,2267,Weekday,Normal,0.7,Adequate,Dec,52,8.535714286
+2023-12-30,8.72,926,Weekend,Long,-0.72,Extra sleep,Dec,52,8.752857143
+2023-12-31,7.52,5633,Weekend,Normal,0.48,Adequate,Dec,52,8.982857143
+2024-01-01,9.3,5212,Weekday,Long,-1.3,Extra sleep,Jan,1,8.932857143
+2024-01-02,10.1,2878,Weekday,Long,-2.1,Extra sleep,Jan,1,9.058571429
+2024-01-03,10.18,143,Weekday,Long,-2.18,Extra sleep,Jan,1,8.69
+2024-01-04,6.63,4098,Weekday,Normal,1.37,Adequate,Jan,1,8.552857143
+2024-01-05,8.82,2240,Weekday,Long,-0.82,Extra sleep,Jan,1,8.972857143
+2024-01-06,10.33,3061,Weekend,Long,-2.33,Extra sleep,Jan,1,9.065714286
+2024-01-07,7.17,6938,Weekend,Normal,0.83,Adequate,Jan,1,8.847142857
+2024-01-08,10.18,2092,Weekday,Long,-2.18,Extra sleep,Jan,2,9.118571429
+2024-01-09,7.52,4643,Weekday,Normal,0.48,Adequate,Jan,2,8.767142857
+2024-01-10,9.22,183,Weekday,Long,-1.22,Extra sleep,Jan,2,9.021428571
+2024-01-11,9.57,1929,Weekday,Long,-1.57,Extra sleep,Jan,2,8.89
+2024-01-12,9.47,3840,Weekday,Long,-1.47,Extra sleep,Jan,2,8.472857143
+2024-01-13,8.8,6498,Weekend,Long,-0.8,Extra sleep,Jan,2,8.352857143
+2024-01-14,9.07,2470,Weekend,Long,-1.07,Extra sleep,Jan,2,8.114285714
+2024-01-15,7.72,2034,Weekday,Normal,0.28,Adequate,Jan,3,8.037142857
+2024-01-16,9.3,5507,Weekday,Long,-1.3,Extra sleep,Jan,3,8.238571429
+2024-01-17,8.3,326,Weekday,Long,-0.3,Extra sleep,Jan,3,8.062857143
+2024-01-18,6.65,7107,Weekday,Normal,1.35,Adequate,Jan,3,8.095714286
+2024-01-19,8.63,3196,Weekday,Long,-0.63,Extra sleep,Jan,3,8.221428571
+2024-01-20,7.13,4287,Weekend,Normal,0.87,Adequate,Jan,3,8.181428571
+2024-01-21,8.53,3300,Weekend,Long,-0.53,Extra sleep,Jan,3,8.305714286
+2024-01-22,9.13,3364,Weekday,Long,-1.13,Extra sleep,Jan,4,8.247142857
+2024-01-23,8.07,2041,Weekday,Long,-0.07,Extra sleep,Jan,4,8.2
+2024-01-24,8.53,2138,Weekday,Long,-0.53,Extra sleep,Jan,4,8.265714286
+2024-01-25,7.53,8359,Weekday,Normal,0.47,Adequate,Jan,4,8.34
+2024-01-26,8.35,2760,Weekday,Long,-0.35,Extra sleep,Jan,4,8.381428571
+2024-01-27,8,5166,Weekend,Long,0,Extra sleep,Jan,4,8.52
+2024-01-28,8.12,3838,Weekend,Long,-0.12,Extra sleep,Jan,4,8.708571429
+2024-01-29,8.8,5186,Weekday,Long,-0.8,Extra sleep,Jan,5,8.824285714
+2024-01-30,8.53,4772,Weekday,Long,-0.53,Extra sleep,Jan,5,8.807142857
+2024-01-31,9.05,3479,Weekday,Long,-1.05,Extra sleep,Jan,5,8.721428571
+2024-02-01,7.82,5760,Weekday,Normal,0.18,Adequate,Feb,5,8.807142857
+2024-02-02,9.32,3170,Weekday,Long,-1.32,Extra sleep,Feb,5,9.058571429
+2024-02-03,9.32,4855,Weekend,Long,-1.32,Extra sleep,Feb,5,9.084285714
+2024-02-04,8.93,3476,Weekend,Long,-0.93,Extra sleep,Feb,5,8.884285714
+2024-02-05,8.68,5042,Weekday,Long,-0.68,Extra sleep,Feb,6,8.365714286
+2024-02-06,7.93,6657,Weekday,Normal,0.07,Adequate,Feb,6,8.411428571
+2024-02-07,9.65,2454,Weekday,Long,-1.65,Extra sleep,Feb,6,8.147142857
+2024-02-08,9.58,6078,Weekday,Long,-1.58,Extra sleep,Feb,6,8.108571429
+2024-02-09,9.5,3827,Weekday,Long,-1.5,Extra sleep,Feb,6,7.911428571
+2024-02-10,7.92,5388,Weekend,Normal,0.08,Adequate,Feb,6,7.387142857
+2024-02-11,5.3,5972,Weekend,Short,2.7,Sleep deprived,Feb,6,7.534285714
+2024-02-12,9,4433,Weekday,Long,-1,Extra sleep,Feb,7,8.091428571
+2024-02-13,6.08,8806,Weekday,Normal,1.92,Adequate,Feb,7,7.92
+2024-02-14,9.38,2532,Weekday,Long,-1.38,Extra sleep,Feb,7,8.132857143
+2024-02-15,8.2,3383,Weekday,Long,-0.2,Extra sleep,Feb,7,7.74
+2024-02-16,5.83,3281,Weekday,Short,2.17,Sleep deprived,Feb,7,7.761428571
+2024-02-17,8.95,11317,Weekend,Long,-0.95,Extra sleep,Feb,7,8.175714286
+2024-02-18,9.2,3429,Weekend,Long,-1.2,Extra sleep,Feb,7,7.961428571
+2024-02-19,7.8,7066,Weekday,Normal,0.2,Adequate,Feb,8,8.121428571
+2024-02-20,7.57,8108,Weekday,Normal,0.43,Adequate,Feb,8,8.335714286
+2024-02-21,6.63,4173,Weekday,Normal,1.37,Adequate,Feb,8,8.471428571
+2024-02-22,8.35,1098,Weekday,Long,-0.35,Extra sleep,Feb,8,8.764285714
+2024-02-23,8.73,10678,Weekday,Long,-0.73,Extra sleep,Feb,8,8.924285714
+2024-02-24,7.45,1569,Weekend,Normal,0.55,Adequate,Feb,8,9.008571429
+2024-02-25,10.32,12429,Weekend,Long,-2.32,Extra sleep,Feb,8,8.99
+2024-02-26,9.3,11528,Weekday,Long,-1.3,Extra sleep,Feb,9,8.705714286
+2024-02-27,8.52,6755,Weekday,Long,-0.52,Extra sleep,Feb,9,8.672857143
+2024-02-28,8.68,6836,Weekday,Long,-0.68,Extra sleep,Feb,9,8.67
+2024-02-29,9.47,5070,Weekday,Long,-1.47,Extra sleep,Feb,9,8.225714286
+2024-03-01,9.32,340,Weekday,Long,-1.32,Extra sleep,Mar,9,7.882857143
+2024-03-02,7.32,8245,Weekend,Normal,0.68,Adequate,Mar,9,7.891428571
+2024-03-03,8.33,10797,Weekend,Long,-0.33,Extra sleep,Mar,9,7.927142857
+2024-03-04,9.07,7390,Weekday,Long,-1.07,Extra sleep,Mar,10,8.048571429
+2024-03-05,8.5,9909,Weekday,Long,-0.5,Extra sleep,Mar,10,7.864285714
+2024-03-06,5.57,8324,Weekday,Short,2.43,Sleep deprived,Mar,10,7.94
+2024-03-07,7.07,8821,Weekday,Normal,0.93,Adequate,Mar,10,8.218571429
+2024-03-08,9.38,466,Weekday,Long,-1.38,Extra sleep,Mar,10,8.511428571
+2024-03-09,7.57,7563,Weekend,Normal,0.43,Adequate,Mar,10,8.457142857
+2024-03-10,9.18,7969,Weekend,Long,-1.18,Extra sleep,Mar,10,8.658571429
+2024-03-11,7.78,4955,Weekday,Normal,0.22,Adequate,Mar,11,8.754285714
+2024-03-12,9.03,9920,Weekday,Long,-1.03,Extra sleep,Mar,11,8.91
+2024-03-13,7.52,8507,Weekday,Normal,0.48,Adequate,Mar,11,8.567142857
+2024-03-14,9.12,518,Weekday,Long,-1.12,Extra sleep,Mar,11,8.402857143
+2024-03-15,9,893,Weekday,Long,-1,Extra sleep,Mar,11,8.118571429
+2024-03-16,8.98,7694,Weekend,Long,-0.98,Extra sleep,Mar,11,8.197142857
+2024-03-17,9.85,9014,Weekend,Long,-1.85,Extra sleep,Mar,11,8.121428571
+2024-03-18,8.87,8553,Weekday,Long,-0.87,Extra sleep,Mar,12,8.021428571
+2024-03-19,6.63,9811,Weekday,Normal,1.37,Adequate,Mar,12,7.965714286
+2024-03-20,6.37,9757,Weekday,Normal,1.63,Adequate,Mar,12,8.161428571
+2024-03-21,7.13,4557,Weekday,Normal,0.87,Adequate,Mar,12,8.427142857
+2024-03-22,9.55,1143,Weekday,Long,-1.55,Extra sleep,Mar,12,8.237142857
+2024-03-23,8.45,8706,Weekend,Long,-0.45,Extra sleep,Mar,12,8.23
+2024-03-24,9.15,6270,Weekend,Long,-1.15,Extra sleep,Mar,12,8.391428571
+2024-03-25,8.48,4845,Weekday,Long,-0.48,Extra sleep,Mar,13,8.162857143
+2024-03-26,8,6134,Weekday,Long,0,Extra sleep,Mar,13,8.172857143
+2024-03-27,8.23,9483,Weekday,Long,-0.23,Extra sleep,Mar,13,8.097142857
+2024-03-28,5.8,368,Weekday,Short,2.2,Sleep deprived,Mar,13,7.964285714
+2024-03-29,9.5,563,Weekday,Long,-1.5,Extra sleep,Mar,13,8.304285714
+2024-03-30,9.58,8694,Weekend,Long,-1.58,Extra sleep,Mar,13,8.071428571
+2024-03-31,7.55,4810,Weekend,Normal,0.45,Adequate,Mar,13,7.855714286
+2024-04-01,8.55,6465,Weekday,Long,-0.55,Extra sleep,Apr,14,7.988571429
+2024-04-02,7.47,6570,Weekday,Normal,0.53,Adequate,Apr,14,7.978571429
+2024-04-03,7.3,6796,Weekday,Normal,0.7,Adequate,Apr,14,8.035714286
+2024-04-04,8.18,2463,Weekday,Long,-0.18,Extra sleep,Apr,14,8.05
+2024-04-05,7.87,762,Weekday,Normal,0.13,Adequate,Apr,14,7.984285714
+2024-04-06,8.07,7492,Weekend,Long,-0.07,Extra sleep,Apr,14,7.948571429
+2024-04-07,8.48,4892,Weekend,Long,-0.48,Extra sleep,Apr,14,8.157142857
+2024-04-08,8.48,6956,Weekday,Long,-0.48,Extra sleep,Apr,15,8.098571429
+2024-04-09,7.87,4341,Weekday,Normal,0.13,Adequate,Apr,15,7.975714286
+2024-04-10,7.4,5505,Weekday,Normal,0.6,Adequate,Apr,15,7.954285714
+2024-04-11,7.72,2297,Weekday,Normal,0.28,Adequate,Apr,15,7.954285714
+2024-04-12,7.62,451,Weekday,Normal,0.38,Adequate,Apr,15,7.975714286
+2024-04-13,9.53,5633,Weekend,Long,-1.53,Extra sleep,Apr,15,8.098571429
+2024-04-14,8.07,10634,Weekend,Long,-0.07,Extra sleep,Apr,15,7.918571429
+2024-04-15,7.62,4226,Weekday,Normal,0.38,Adequate,Apr,16,8.037142857
+2024-04-16,7.72,4784,Weekday,Normal,0.28,Adequate,Apr,16,8.317142857
+2024-04-17,7.4,11030,Weekday,Normal,0.6,Adequate,Apr,16,8.25
+2024-04-18,7.87,836,Weekday,Normal,0.13,Adequate,Apr,16,8.521428571
+2024-04-19,8.48,218,Weekday,Long,-0.48,Extra sleep,Apr,16,8.872857143
+2024-04-20,8.27,6312,Weekend,Long,-0.27,Extra sleep,Apr,16,8.792857143
+2024-04-21,8.9,6195,Weekend,Long,-0.9,Extra sleep,Apr,16,8.915714286
+2024-04-22,9.58,5637,Weekday,Long,-1.58,Extra sleep,Apr,17,9.047142857
+2024-04-23,7.25,9611,Weekday,Normal,0.75,Adequate,Apr,17,8.897142857
+2024-04-24,9.3,405,Weekday,Long,-1.3,Extra sleep,Apr,17,9.301428571
+2024-04-25,10.33,4923,Weekday,Long,-2.33,Extra sleep,Apr,17,9.412857143
+2024-04-26,7.92,370,Weekday,Normal,0.08,Adequate,Apr,17,8.991428571
+2024-04-27,9.13,152,Weekend,Long,-1.13,Extra sleep,Apr,17,8.914285714
+2024-04-28,9.82,7998,Weekend,Long,-1.82,Extra sleep,Apr,17,8.641428571
+2024-04-29,8.53,270,Weekday,Long,-0.53,Extra sleep,Apr,18,8.667142857
+2024-04-30,10.08,125,Weekday,Long,-2.08,Extra sleep,Apr,18,8.762857143
+2024-05-01,10.08,255,Weekday,Long,-2.08,Extra sleep,May,18,8.762857143
+2024-05-02,7.38,238,Weekday,Normal,0.62,Adequate,May,18,8.758571429
+2024-05-03,7.38,3021,Weekday,Normal,0.62,Adequate,May,18,9.035714286
+2024-05-04,7.22,6724,Weekend,Normal,0.78,Adequate,May,18,9.091428571
+2024-05-05,10,7830,Weekend,Long,-2,Extra sleep,May,18,9.378571429
+2024-05-06,9.2,2654,Weekday,Long,-1.2,Extra sleep,May,19,8.89
+2024-05-07,10.08,5955,Weekday,Long,-2.08,Extra sleep,May,19,8.651428571
+2024-05-08,10.05,5814,Weekday,Long,-2.05,Extra sleep,May,19,8.665714286
+2024-05-09,9.32,5906,Weekday,Long,-1.32,Extra sleep,May,19,8.672857143
+2024-05-10,7.77,2151,Weekday,Normal,0.23,Adequate,May,19,8.467142857
+2024-05-11,9.23,6506,Weekend,Long,-1.23,Extra sleep,May,19,8.442857143
+2024-05-12,6.58,4749,Weekend,Normal,1.42,Adequate,May,19,8.35
+2024-05-13,7.53,5307,Weekday,Normal,0.47,Adequate,May,20,8.8
+2024-05-14,10.18,4996,Weekday,Long,-2.18,Extra sleep,May,20,9.171428571
+2024-05-15,10.1,11246,Weekday,Long,-2.1,Extra sleep,May,20,9.038571429
+2024-05-16,7.88,9350,Weekday,Normal,0.12,Adequate,May,20,8.524285714
+2024-05-17,7.6,954,Weekday,Normal,0.4,Adequate,May,20,8.712857143
+2024-05-18,8.58,8768,Weekend,Long,-0.58,Extra sleep,May,20,8.82
+2024-05-19,9.73,9872,Weekend,Long,-1.73,Extra sleep,May,20,8.922857143
+2024-05-20,10.13,216,Weekday,Long,-2.13,Extra sleep,May,21,8.885714286
+2024-05-21,9.25,3583,Weekday,Long,-1.25,Extra sleep,May,21,9.017142857
+2024-05-22,6.5,3588,Weekday,Normal,1.5,Adequate,May,21,9.191428571
+2024-05-23,9.2,296,Weekday,Long,-1.2,Extra sleep,May,21,9.552857143
+2024-05-24,8.35,180,Weekday,Long,-0.35,Extra sleep,May,21,9.377142857
+2024-05-25,9.3,5576,Weekend,Long,-1.3,Extra sleep,May,21,9.352857143
+2024-05-26,9.47,8271,Weekend,Long,-1.47,Extra sleep,May,21,8.842857143
+2024-05-27,11.05,7777,Weekday,Long,-3.05,Extra sleep,May,22,8.801428571
+2024-05-28,10.47,4199,Weekday,Long,-2.47,Extra sleep,May,22,8.49
+2024-05-29,9.03,3557,Weekday,Long,-1.03,Extra sleep,May,22,8.454285714
+2024-05-30,7.97,3713,Weekday,Normal,0.03,Adequate,May,22,8.138571429
+2024-05-31,8.18,5018,Weekday,Long,-0.18,Extra sleep,May,22,8.182857143
+2024-06-01,5.73,8105,Weekend,Short,2.27,Sleep deprived,Jun,22,8.411428571
+2024-06-02,9.18,8017,Weekend,Long,-1.18,Extra sleep,Jun,22,8.65
+2024-06-03,8.87,6992,Weekday,Long,-0.87,Extra sleep,Jun,23,8.617142857
+2024-06-04,10.22,268,Weekday,Long,-2.22,Extra sleep,Jun,23,8.818571429
+2024-06-05,6.82,3893,Weekday,Normal,1.18,Adequate,Jun,23,8.711428571
+2024-06-06,8.28,140,Weekday,Long,-0.28,Extra sleep,Jun,23,9.015714286
+2024-06-07,9.78,210,Weekday,Long,-1.78,Extra sleep,Jun,23,9.058571429
+2024-06-08,7.4,3980,Weekend,Normal,0.6,Adequate,Jun,23,8.815714286
+2024-06-09,8.95,10362,Weekend,Long,-0.95,Extra sleep,Jun,23,9.051428571
+2024-06-10,10.28,283,Weekday,Long,-2.28,Extra sleep,Jun,24,9.191428571
+2024-06-11,9.47,14088,Weekday,Long,-1.47,Extra sleep,Jun,24,8.83
+2024-06-12,8.95,508,Weekday,Long,-0.95,Extra sleep,Jun,24,8.734285714
+2024-06-13,8.58,409,Weekday,Long,-0.58,Extra sleep,Jun,24,8.734285714
+2024-06-14,8.08,281,Weekday,Long,-0.08,Extra sleep,Jun,24,8.241428571
+2024-06-15,9.05,318,Weekend,Long,-1.05,Extra sleep,Jun,24,8.097142857
+2024-06-16,9.93,4136,Weekend,Long,-1.93,Extra sleep,Jun,24,7.954285714
+2024-06-17,7.75,2120,Weekday,Normal,0.25,Adequate,Jun,25,8.631428571
+2024-06-18,8.8,5129,Weekday,Long,-0.8,Extra sleep,Jun,25,8.798571429
+2024-06-19,8.95,5786,Weekday,Long,-0.95,Extra sleep,Jun,25,9.241428571
+2024-06-20,5.13,5270,Weekday,Short,2.87,Sleep deprived,Jun,25,9.567142857
+2024-06-21,7.07,10565,Weekday,Normal,0.93,Adequate,Jun,25,9.762857143
+2024-06-22,8.05,4921,Weekend,Long,-0.05,Extra sleep,Jun,25,10.34857143
+2024-06-23,14.67,12044,Weekend,Long,-6.67,Extra sleep,Jun,25,10.25857143
+2024-06-24,8.92,145,Weekday,Long,-0.92,Extra sleep,Jun,26,9.501428571
+2024-06-25,11.9,23,Weekday,Long,-3.9,Extra sleep,Jun,26,9.501428571
+2024-06-26,11.23,27,Weekday,Long,-3.23,Extra sleep,Jun,26,9.148571429
+2024-06-27,6.5,1424,Weekday,Normal,1.5,Adequate,Jun,26,9.048571429
+2024-06-28,11.17,3793,Weekday,Long,-3.17,Extra sleep,Jun,26,9.53
+2024-06-29,7.42,4881,Weekend,Normal,0.58,Adequate,Jun,26,9.331428571
+2024-06-30,9.37,11153,Weekend,Long,-1.37,Extra sleep,Jun,26,9.635714286
+2024-07-01,8.92,10272,Weekday,Long,-0.92,Extra sleep,Jul,27,9.522857143
+2024-07-02,9.43,4174,Weekday,Long,-1.43,Extra sleep,Jul,27,10.08
+2024-07-03,10.53,4701,Weekday,Long,-2.53,Extra sleep,Jul,27,10.35
+2024-07-04,9.87,122,Weekday,Long,-1.87,Extra sleep,Jul,27,10.14857143
+2024-07-05,9.78,4472,Weekday,Long,-1.78,Extra sleep,Jul,27,10.86
+2024-07-06,9.55,5958,Weekend,Long,-1.55,Extra sleep,Jul,27,10.65285714
+2024-07-07,8.58,6536,Weekend,Long,-0.58,Extra sleep,Jul,27,10.39285714
+2024-07-08,12.82,7475,Weekday,Long,-4.82,Extra sleep,Jul,28,10.29571429
+2024-07-09,11.32,4552,Weekday,Long,-3.32,Extra sleep,Jul,28,9.914285714
+2024-07-10,9.12,5721,Weekday,Long,-1.12,Extra sleep,Jul,28,9.611428571
+2024-07-11,14.85,183,Weekday,Long,-6.85,Extra sleep,Jul,28,9.672857143
+2024-07-12,8.33,430,Weekday,Long,-0.33,Extra sleep,Jul,28,9.182857143
+2024-07-13,7.73,7858,Weekend,Normal,0.27,Adequate,Jul,28,9.302857143
+2024-07-14,7.9,5700,Weekend,Normal,0.1,Adequate,Jul,28,9.22
+2024-07-15,10.15,6623,Weekday,Long,-2.15,Extra sleep,Jul,29,9.655714286
+2024-07-16,9.2,6478,Weekday,Long,-1.2,Extra sleep,Jul,29,9.924285714
+2024-07-17,9.55,11727,Weekday,Long,-1.55,Extra sleep,Jul,29,9.864285714
+2024-07-18,11.42,296,Weekday,Long,-3.42,Extra sleep,Jul,29,10.10714286
+2024-07-19,9.17,510,Weekday,Long,-1.17,Extra sleep,Jul,29,9.89
+2024-07-20,7.15,4532,Weekend,Normal,0.85,Adequate,Jul,29,9.765714286
+2024-07-21,10.95,5387,Weekend,Long,-2.95,Extra sleep,Jul,29,9.872857143
+2024-07-22,12.03,5318,Weekday,Long,-4.03,Extra sleep,Jul,30,9.62
+2024-07-23,8.78,7344,Weekday,Long,-0.78,Extra sleep,Jul,30,9.57
+2024-07-24,11.25,5925,Weekday,Long,-3.25,Extra sleep,Jul,30,9.805714286
+2024-07-25,9.9,4398,Weekday,Long,-1.9,Extra sleep,Jul,30,9.417142857
+2024-07-26,8.3,4274,Weekday,Long,-0.3,Extra sleep,Jul,30,9.345714286
+2024-07-27,7.9,4029,Weekend,Normal,0.1,Adequate,Jul,30,9.752857143
+2024-07-28,9.18,8172,Weekend,Long,-1.18,Extra sleep,Jul,30,9.921428571
+2024-07-29,11.68,8210,Weekday,Long,-3.68,Extra sleep,Jul,31,9.824285714
+2024-07-30,10.43,11401,Weekday,Long,-2.43,Extra sleep,Jul,31,9.617142857
+2024-07-31,8.53,8425,Weekday,Long,-0.53,Extra sleep,Jul,31,9.081428571
+2024-08-01,9.4,147,Weekday,Long,-1.4,Extra sleep,Aug,31,9.12
+2024-08-02,11.15,242,Weekday,Long,-3.15,Extra sleep,Aug,31,9.294285714
+2024-08-03,9.08,13175,Weekend,Long,-1.08,Extra sleep,Aug,31,8.962857143
+2024-08-04,8.5,10374,Weekend,Long,-0.5,Extra sleep,Aug,31,8.84
+2024-08-05,10.23,9563,Weekday,Long,-2.23,Extra sleep,Aug,32,9.125714286
+2024-08-06,6.68,8619,Weekday,Normal,1.32,Adequate,Aug,32,9.135714286
+2024-08-07,8.8,14091,Weekday,Long,-0.8,Extra sleep,Aug,32,9.292857143
+2024-08-08,10.62,2238,Weekday,Long,-2.62,Extra sleep,Aug,32,8.802857143
+2024-08-09,8.83,5135,Weekday,Long,-0.83,Extra sleep,Aug,32,8.997142857
+2024-08-10,8.22,4792,Weekend,Long,-0.22,Extra sleep,Aug,32,9.425714286
+2024-08-11,10.5,4509,Weekend,Long,-2.5,Extra sleep,Aug,32,9.318571429
+2024-08-12,10.3,5117,Weekday,Long,-2.3,Extra sleep,Aug,33,8.515714286
+2024-08-13,7.78,1936,Weekday,Normal,0.22,Adequate,Aug,33,8.694285714
+2024-08-14,5.37,8184,Weekday,Short,2.63,Sleep deprived,Aug,33,9.368571429
+2024-08-15,11.98,2571,Weekday,Long,-3.98,Extra sleep,Aug,33,10.26571429
+2024-08-16,11.83,7958,Weekday,Long,-3.83,Extra sleep,Aug,33,9.914285714
+2024-08-17,7.47,5672,Weekend,Normal,0.53,Adequate,Aug,33,9.457142857
+2024-08-18,4.88,8270,Weekend,Short,3.12,Sleep deprived,Aug,33,9.675714286
+2024-08-19,11.55,5528,Weekday,Long,-3.55,Extra sleep,Aug,34,10.19571429
+2024-08-20,12.5,8612,Weekday,Long,-4.5,Extra sleep,Aug,34,9.524285714
+2024-08-21,11.65,6207,Weekday,Long,-3.65,Extra sleep,Aug,34,8.988571429
+2024-08-22,9.52,2549,Weekday,Long,-1.52,Extra sleep,Aug,34,8.31
+2024-08-23,8.63,5987,Weekday,Long,-0.63,Extra sleep,Aug,34,8.135714286
+2024-08-24,9,6484,Weekend,Long,-1,Extra sleep,Aug,34,8.392857143
+2024-08-25,8.52,53,Weekend,Long,-0.52,Extra sleep,Aug,34,8.481428571
+2024-08-26,6.85,8479,Weekday,Normal,1.15,Adequate,Aug,35,8.5
+2024-08-27,8.75,6676,Weekday,Long,-0.75,Extra sleep,Aug,35,8.531428571
+2024-08-28,6.9,9020,Weekday,Normal,1.1,Adequate,Aug,35,8.348571429
+2024-08-29,8.3,4384,Weekday,Long,-0.3,Extra sleep,Aug,35,8.97
+2024-08-30,10.43,3704,Weekday,Long,-2.43,Extra sleep,Aug,35,9.448571429
+2024-08-31,9.62,7549,Weekend,Long,-1.62,Extra sleep,Aug,35,9.001428571
+2024-09-01,8.65,5679,Weekend,Long,-0.65,Extra sleep,Sep,35,8.774285714
+2024-09-02,7.07,5879,Weekday,Normal,0.93,Adequate,Sep,36,8.714285714
+2024-09-03,7.47,4583,Weekday,Normal,0.53,Adequate,Sep,36,9.118571429
+2024-09-04,11.25,7532,Weekday,Long,-3.25,Extra sleep,Sep,36,9.572857143
+2024-09-05,11.65,4188,Weekday,Long,-3.65,Extra sleep,Sep,36,9.468571429
+2024-09-06,7.3,4709,Weekday,Normal,0.7,Adequate,Sep,36,9.282857143
+2024-09-07,8.03,7264,Weekend,Long,-0.03,Extra sleep,Sep,36,9.73
+2024-09-08,8.23,12422,Weekend,Long,-0.23,Extra sleep,Sep,36,9.914285714
+2024-09-09,9.9,10913,Weekday,Long,-1.9,Extra sleep,Sep,37,10.33428571
+2024-09-10,10.65,2980,Weekday,Long,-2.65,Extra sleep,Sep,37,10.44142857
+2024-09-11,10.52,5921,Weekday,Long,-2.52,Extra sleep,Sep,37,10.43
+2024-09-12,10.35,2114,Weekday,Long,-2.35,Extra sleep,Sep,37,10.42714286
+2024-09-13,10.43,2640,Weekday,Long,-2.43,Extra sleep,Sep,37,10.48428571
+2024-09-14,9.32,3070,Weekend,Long,-1.32,Extra sleep,Sep,37,10.44714286
+2024-09-15,11.17,6266,Weekend,Long,-3.17,Extra sleep,Sep,37,10.20571429
+2024-09-16,10.65,6951,Weekday,Long,-2.65,Extra sleep,Sep,38,10.12142857
+2024-09-17,10.57,9634,Weekday,Long,-2.57,Extra sleep,Sep,38,10.14714286
+2024-09-18,10.5,4433,Weekday,Long,-2.5,Extra sleep,Sep,38,10.23
+2024-09-19,10.75,2878,Weekday,Long,-2.75,Extra sleep,Sep,38,10.24142857
+2024-09-20,10.17,1808,Weekday,Long,-2.17,Extra sleep,Sep,38,10.25285714
+2024-09-21,7.63,4821,Weekend,Normal,0.37,Adequate,Sep,38,10.44571429
+2024-09-22,10.58,6687,Weekend,Long,-2.58,Extra sleep,Sep,38,10.77714286
+2024-09-23,10.83,5811,Weekday,Long,-2.83,Extra sleep,Sep,39,10.42571429
+2024-09-24,11.15,2538,Weekday,Long,-3.15,Extra sleep,Sep,39,10.53142857
+2024-09-25,10.58,9893,Weekday,Long,-2.58,Extra sleep,Sep,39,10.06428571
+2024-09-26,10.83,4013,Weekday,Long,-2.83,Extra sleep,Sep,39,9.678571429
+2024-09-27,11.52,2040,Weekday,Long,-3.52,Extra sleep,Sep,39,9.241428571
+2024-09-28,9.95,3451,Weekend,Long,-1.95,Extra sleep,Sep,39,8.542857143
+2024-09-29,8.12,10118,Weekend,Long,-0.12,Extra sleep,Sep,39,8.25
+2024-09-30,11.57,4375,Weekday,Long,-3.57,Extra sleep,Sep,40,8.137142857
+2024-10-01,7.88,2220,Weekday,Normal,0.12,Adequate,Oct,40,7.57
+2024-10-02,7.88,4491,Weekday,Normal,0.12,Adequate,Oct,40,7.427142857
+2024-10-03,7.77,8652,Weekday,Normal,0.23,Adequate,Oct,40,7.637142857
+2024-10-04,6.63,6138,Weekday,Normal,1.37,Adequate,Oct,40,7.481428571
+2024-10-05,7.9,847,Weekend,Normal,0.1,Adequate,Oct,40,7.774285714
+2024-10-06,7.33,6530,Weekend,Normal,0.67,Adequate,Oct,40,7.884285714
+2024-10-07,7.6,8703,Weekday,Normal,0.4,Adequate,Oct,41,7.744285714
+2024-10-08,6.88,3795,Weekday,Normal,1.12,Adequate,Oct,41,7.904285714
+2024-10-09,9.35,7361,Weekday,Long,-1.35,Extra sleep,Oct,41,7.942857143
+2024-10-10,6.68,2270,Weekday,Normal,1.32,Adequate,Oct,41,7.754285714
+2024-10-11,8.68,5962,Weekday,Long,-0.68,Extra sleep,Oct,41,7.971428571
+2024-10-12,8.67,6102,Weekend,Long,-0.67,Extra sleep,Oct,41,7.655714286
+2024-10-13,6.35,9976,Weekend,Normal,1.65,Adequate,Oct,41,7.292857143
+2024-10-14,8.72,632,Weekday,Long,-0.72,Extra sleep,Oct,42,7.442857143
+2024-10-15,7.15,10844,Weekday,Normal,0.85,Adequate,Oct,42,7.301428571
+2024-10-16,8.03,8741,Weekday,Long,-0.03,Extra sleep,Oct,42,7.415714286
+2024-10-17,8.2,2259,Weekday,Long,-0.2,Extra sleep,Oct,42,7.551428571
+2024-10-18,6.47,5112,Weekday,Normal,1.53,Adequate,Oct,42,7.447142857
+2024-10-19,6.13,1985,Weekend,Normal,1.87,Adequate,Oct,42,7.672857143
+2024-10-20,7.4,6963,Weekend,Normal,0.6,Adequate,Oct,42,7.997142857
+2024-10-21,7.73,395,Weekday,Normal,0.27,Adequate,Oct,43,8.154285714
+2024-10-22,7.95,2526,Weekday,Normal,0.05,Adequate,Oct,43,8.152857143
+2024-10-23,8.98,3733,Weekday,Long,-0.98,Extra sleep,Oct,43,7.998571429
+2024-10-24,7.47,2817,Weekday,Normal,0.53,Adequate,Oct,43,7.798571429
+2024-10-25,8.05,2293,Weekday,Long,-0.05,Extra sleep,Oct,43,8.062857143
+2024-10-26,8.4,4923,Weekend,Long,-0.4,Extra sleep,Oct,43,8.244285714
+2024-10-27,8.5,6380,Weekend,Long,-0.5,Extra sleep,Oct,43,7.987142857
+2024-10-28,7.72,6808,Weekday,Normal,0.28,Adequate,Oct,44,7.934285714
+2024-10-29,6.87,5944,Weekday,Normal,1.13,Adequate,Oct,44,8.188571429
+2024-10-30,7.58,2735,Weekday,Normal,0.42,Adequate,Oct,44,8.188571429
+2024-10-31,9.32,2835,Weekday,Long,-1.32,Extra sleep,Oct,44,8.251428571
+2024-11-01,9.32,2219,Weekday,Long,-1.32,Extra sleep,Nov,44,8.072857143
+2024-11-02,6.6,1772,Weekend,Normal,1.4,Adequate,Nov,44,7.852857143
+2024-11-03,8.13,6689,Weekend,Long,-0.13,Extra sleep,Nov,44,8.031428571
+2024-11-04,9.5,8970,Weekday,Long,-1.5,Extra sleep,Nov,45,8.024285714
+2024-11-05,6.87,5535,Weekday,Normal,1.13,Adequate,Nov,45,7.657142857
+2024-11-06,8.02,1775,Weekday,Long,-0.02,Extra sleep,Nov,45,7.78
+2024-11-07,8.07,3506,Weekday,Long,-0.07,Extra sleep,Nov,45,7.595714286
+2024-11-08,7.78,2880,Weekday,Normal,0.22,Adequate,Nov,45,7.475714286
+2024-11-09,7.85,2619,Weekend,Normal,0.15,Adequate,Nov,45,7.397142857
+2024-11-10,8.08,11153,Weekend,Long,-0.08,Extra sleep,Nov,45,7.322857143
+2024-11-11,6.93,5172,Weekday,Normal,1.07,Adequate,Nov,46,7.237142857
+2024-11-12,7.73,14510,Weekday,Normal,0.27,Adequate,Nov,46,7.065714286
+2024-11-13,6.73,6633,Weekday,Normal,1.27,Adequate,Nov,46,7.03
+2024-11-14,7.23,1985,Weekday,Normal,0.77,Adequate,Nov,46,7.064285714
+2024-11-15,7.23,1742,Weekday,Normal,0.77,Adequate,Nov,46,7.22
+2024-11-16,7.33,4109,Weekend,Normal,0.67,Adequate,Nov,46,7.275714286
+2024-11-17,7.48,181,Weekend,Normal,0.52,Adequate,Nov,46,7.368571429
+2024-11-18,5.73,4881,Weekday,Short,2.27,Sleep deprived,Nov,47,7.481428571
+2024-11-19,7.48,6839,Weekday,Normal,0.52,Adequate,Nov,47,7.82
+2024-11-20,6.97,4952,Weekday,Normal,1.03,Adequate,Nov,47,7.73
+2024-11-21,8.32,2647,Weekday,Long,-0.32,Extra sleep,Nov,47,7.891428571
+2024-11-22,7.62,2602,Weekday,Normal,0.38,Adequate,Nov,47,7.648571429
+2024-11-23,7.98,7522,Weekend,Normal,0.02,Adequate,Nov,47,7.712857143
+2024-11-24,8.27,4339,Weekend,Long,-0.27,Extra sleep,Nov,47,7.704285714
+2024-11-25,8.1,7144,Weekday,Long,-0.1,Extra sleep,Nov,48,7.434285714
+2024-11-26,6.85,5870,Weekday,Normal,1.15,Adequate,Nov,48,7.202857143
+2024-11-27,8.1,1767,Weekday,Long,-0.1,Extra sleep,Nov,48,7.261666667
+2024-11-28,6.62,3367,Weekday,Normal,1.38,Adequate,Nov,48,7.094
+2024-11-29,8.07,1700,Weekday,Long,-0.07,Extra sleep,Nov,48,7.2125
+2024-11-30,7.92,2411,Weekend,Normal,0.08,Adequate,Nov,48,6.926666667
+2024-12-01,6.38,6039,Weekend,Normal,1.62,Adequate,Dec,48,6.43
+2024-12-02,6.48,4647,Weekday,Normal,1.52,Adequate,Dec,49,6.48

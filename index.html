@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sleep Patterns Visualization</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Sleep & Steps Rhythms Over Time</h1>
+      <p>
+        An interactive exploration of daily sleep duration, longer-term trends,
+        and unusually high or low sleep days.
+      </p>
+    </header>
+    <section id="controls">
+      <label for="filterDayType">Filter by day type:</label>
+      <select id="filterDayType">
+        <option value="All">All</option>
+        <option value="Weekday">Weekday</option>
+        <option value="Weekend">Weekend</option>
+      </select>
+    </section>
+
+    <section class="chart-section">
+      <h2>1. Distribution of Sleep Hours</h2>
+      <div id="histogram"></div>
+    </section>
+
+    <section class="chart-section">
+      <h2>2. Sleep Over Time</h2>
+      <div id="line-chart"></div>
+    </section>
+
+    <section class="chart-section">
+      <h2>3.1 Sleep During Midterm vs Regular Periods</h2>
+      <div id="midterm-sleep-chart"></div>
+      <h2>3.2 How Sleep Changes During Midterm Periods</h2>
+      <div id="midterm-slope-chart"></div>
+
+    </section>
+
+    <section class="chart-section">
+      <h2> 
+       4. Compare sleep duration between weekday and weekends</h2>
+      </h2>
+      </div class="two-column">
+        <div class="chart-box">
+          <h3>4.1 Weekday vs Weekend Sleep Duration</h2>
+          <div id="boxplot-daytype"></div>
+        </div>
+        <div class="chart-box">
+          <h3>4.2 Weekday vs Weekend Sleep Density</h3>
+          <div id="density-daytype"></div>
+        </div>
+      </div>
+    </section>
+
+        <section class="chart-section">
+      <h2>5. Calendar Heatmap</h2>
+      <div id="calendar-heatmap"></div>
+    </section>
+
+    <div id="tooltip" class="tooltip"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+    <section class="chart-section">
+      <h2>
+        6. How different sleep durations are associated with higher or lower
+        levels of daily activity, measured through steps
+      </h2>
+      <div class="two-column">
+        <div class="chart-box">
+          <h3>6.1 Sleep Hours vs Steps</h3>
+          <div id="scatter-plot"></div>
+        </div>
+        <div class="chart-box">
+          <h3>6.2 Average Steps by Sleep Duration Bin</h3>
+          <div id="binned-steps-chart"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="chart-section">
+      <h2> 7.Sleep vs Steps Heatmap</h2>
+      <div id="sleep-steps-heatmap"></div>
+     </section>
+
+
+
+
+
